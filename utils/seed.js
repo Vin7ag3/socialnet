@@ -44,7 +44,7 @@ async function seedUsers() {
 // connect to database, seed data, and disconnect
 async function Seed() {
   try {
-    await mongoose.connect('mongodb://127.0.0.1:27017/socialnetAPI', {
+    await mongoose.connect('mongodb://127.0.0.1:27017/socialnet', {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     });
