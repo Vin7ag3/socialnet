@@ -24,6 +24,8 @@ API for a social network web application where users can share their thoughts, r
 
 ## Usage
 
+Socialnet Demo 
+https://www.loom.com/share/65037f2c4bb844a08f94a5d7a34fe665
 
 ## License
 MIT
