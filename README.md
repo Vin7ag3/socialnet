@@ -5,11 +5,11 @@
 ## Description
 
 ```
-API for a social network web application where users can share their thoughts, react to friends’ thoughts,
-and create a friend list using Express.js for routing, a MongoDB database, and the Mongoose ODM. 
+Socialnet is a social network web application, using Express.js for efficient routing,
+MongoDB for flexible data storage, and Mongoose ODM (Object-Document Mapper) for simplified database interactions.
+Key features include thought management, a dynamic reaction system for commenting on friends thoughts and friend list management.
+Socialnet focuses on user experience and real-time interactions, this API provides a robust framework for building interactive social platforms.
 ```
-
-## Table of Contents:
 
 [Installation](#installation)
 
