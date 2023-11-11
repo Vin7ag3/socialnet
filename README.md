@@ -3,7 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list using Express.js for routing, a MongoDB database, and the Mongoose ODM. 
+
+```
+API for a social network web application where users can share their thoughts, react to friends’ thoughts,
+and create a friend list using Express.js for routing, a MongoDB database, and the Mongoose ODM. 
+```
 
 ## Table of Contents:
 
@@ -21,6 +25,10 @@ API for a social network web application where users can share their thoughts, r
 
 ## Installation
 
+```
+Clone repository: Git or checkout with SVN using the web URL.
+install dependencies: npm install
+```
 
 ## Usage
 
