@@ -30,6 +30,11 @@ Clone repository: Git or checkout with SVN using the web URL.
 install dependencies: npm install
 ```
 
+Run the following on the  command-line:
+
+ - `npm run seed`
+ - `npm start`
+   
 ## Usage
 
 Socialnet Demo 
